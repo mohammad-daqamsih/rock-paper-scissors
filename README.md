@@ -51,6 +51,7 @@ How to use Git & GitHub for version control
 
 How to apply clean game logic
 _____________________________________________________________________________________________________________________________________________________________
+
 📸 Project Structure
 Rock-Paper-Scissors/
 │
