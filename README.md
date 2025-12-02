@@ -54,6 +54,7 @@ ________________________________________________________________________________
 
 📸 Project Structure
 Rock-Paper-Scissors/
+
 │
 ├── ConsoleApplication1/     # Source code folder
 │   ├── main.cpp             # Main game logic
